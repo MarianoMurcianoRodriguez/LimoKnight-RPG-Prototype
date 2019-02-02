@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a39636c2b7fc7234ea5ed88b63dad8c1, type: 3}
+  m_Name: Ground Hunter (I)
+  m_EditorClassIdentifier: 
+  _identifier: 0
+  _name: Ground Hunter (I)
+  _description: Kill 10 passive moles!
+  _typeQuest: 0
+  _isAvailableNow: 1
+  _isAvailableAtStart: 1
+  _completedByUser: 0
+  _typeReward: 0
+  _rewards: 6400000000000000
+  _enemyTypes: 00000000
+  _enemyQuantity: 0a000000
+  _enemiesDeleted: 
+  _nextMissionIdentifier: 0

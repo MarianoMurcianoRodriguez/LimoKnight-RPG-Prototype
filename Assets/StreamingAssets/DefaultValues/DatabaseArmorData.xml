@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<InfoArmorDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InfoArmors>
+    <InfoArmor>
+      <Name>Armadura-0</Name>
+      <IsEquipped>true</IsEquipped>
+      <EquippedInSlot>Helmet</EquippedInSlot>
+      <SellValue>0</SellValue>
+      <Description>Test numero 0 de arma.</Description>
+      <Stats>
+        <Constitution>0</Constitution>
+        <Strength>0</Strength>
+        <Defense>0</Defense>
+        <Luck>0</Luck>
+      </Stats>
+      <ModelName>/Armor/Helmet/0</ModelName>
+    </InfoArmor>
+    <InfoArmor>
+      <Name>Armadura-1</Name>
+      <IsEquipped>true</IsEquipped>
+      <EquippedInSlot>Gloves</EquippedInSlot>
+      <SellValue>100</SellValue>
+      <Description>Test numero 1 de arma.</Description>
+      <Stats>
+        <Constitution>0</Constitution>
+        <Strength>0</Strength>
+        <Defense>0</Defense>
+        <Luck>0</Luck>
+      </Stats>
+      <ModelName>/Armor/Gloves/0</ModelName>
+    </InfoArmor>
+    <InfoArmor>
+      <Name>Armadura-2</Name>
+      <IsEquipped>true</IsEquipped>
+      <EquippedInSlot>Chestplate</EquippedInSlot>
+      <SellValue>200</SellValue>
+      <Description>Test numero 2 de arma.</Description>
+      <Stats>
+        <Constitution>0</Constitution>
+        <Strength>0</Strength>
+        <Defense>0</Defense>
+        <Luck>0</Luck>
+      </Stats>
+      <ModelName>/Armor/Chestplate/0</ModelName>
+    </InfoArmor>
+    <InfoArmor>
+      <Name>Armadura-3</Name>
+      <IsEquipped>true</IsEquipped>
+      <EquippedInSlot>Trousers</EquippedInSlot>
+      <SellValue>300</SellValue>
+      <Description>Test numero 3 de arma.</Description>
+      <Stats>
+        <Constitution>0</Constitution>
+        <Strength>0</Strength>
+        <Defense>0</Defense>
+        <Luck>0</Luck>
+      </Stats>
+      <ModelName>/Armor/Trousers/0</ModelName>
+    </InfoArmor>
+    <InfoArmor>
+      <Name>Armadura-4</Name>
+      <IsEquipped>true</IsEquipped>
+      <EquippedInSlot>Shoes</EquippedInSlot>
+      <SellValue>400</SellValue>
+      <Description>Test numero 4 de arma.</Description>
+      <Stats>
+        <Constitution>0</Constitution>
+        <Strength>0</Strength>
+        <Defense>0</Defense>
+        <Luck>0</Luck>
+      </Stats>
+      <ModelName>/Armor/Shoes/0</ModelName>
+    </InfoArmor>
+    <InfoArmor>
+      <Name>Armadura-5</Name>
+      <IsEquipped>true</IsEquipped>
+      <EquippedInSlot>LeftAccesory</EquippedInSlot>
+      <SellValue>500</SellValue>
+      <Description>Test numero 5 de arma.</Description>
+      <Stats>
+        <Constitution>0</Constitution>
+        <Strength>0</Strength>
+        <Defense>0</Defense>
+        <Luck>0</Luck>
+      </Stats>
+      <ModelName>/Armor/LeftAccesory/0</ModelName>
+    </InfoArmor>
+    <InfoArmor>
+      <Name>Armadura-6</Name>
+      <IsEquipped>true</IsEquipped>
+      <EquippedInSlot>RightAccesory</EquippedInSlot>
+      <SellValue>600</SellValue>
+      <Description>Test numero 6 de arma.</Description>
+      <Stats>
+        <Constitution>0</Constitution>
+        <Strength>0</Strength>
+        <Defense>0</Defense>
+        <Luck>0</Luck>
+      </Stats>
+      <ModelName>/Armor/RightAccesory/0</ModelName>
+    </InfoArmor>
+  </InfoArmors>
+</InfoArmorDatabase>

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a39636c2b7fc7234ea5ed88b63dad8c1, type: 3}
+  m_Name: Sonic Hunter (II)
+  m_EditorClassIdentifier: 
+  _identifier: 1
+  _name: Sonic Hunter (II)
+  _description: These headhogs keep invading us, please limo, help us, you're the
+    only one who can do it!
+  _isActiveNow: 0
+  _isAvailableNow: 0
+  _isAvailableAtStart: 0
+  _completedByUser: 0
+  _typeReward: 2
+  _rewards: c800000050000000
+  _nextMissionId: -1
+  _enemyTypes: 00000000
+  _enemyQuantity: 1e000000
+  _enemiesDeleted: 00000000
+  subChecks: 0

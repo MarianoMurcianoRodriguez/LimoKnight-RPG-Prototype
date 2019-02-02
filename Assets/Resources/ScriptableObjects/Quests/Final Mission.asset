@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65c51eb439dc1a489e76b3d00f18b77, type: 3}
+  m_Name: Final Mission
+  m_EditorClassIdentifier: 
+  _identifier: 2
+  _name: End this game!
+  _description: -Find the old man & Find what he needs
+  _isActiveNow: 0
+  _isAvailableNow: 1
+  _isAvailableAtStart: 1
+  _completedByUser: 0
+  _typeReward: 2
+  _rewards: dc050000dc050000
+  _nextMissionId: -1
+  _objectives:
+  - _nameObjective: Find the Old Man
+    _indentifierObjective: 0
+    _isCompleted: 1
+  - _nameObjective: Get the Golden Key
+    _indentifierObjective: 1
+    _isCompleted: 1
+  _objectivesCompleted: 0

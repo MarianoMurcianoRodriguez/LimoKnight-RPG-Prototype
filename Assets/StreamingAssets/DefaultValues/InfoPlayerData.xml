@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<InfoPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SimpleSprite>/DialogueSprite/Limo</SimpleSprite>
+  <FullBodySprite>/Player/Limo</FullBodySprite>
+  <IsGameEnded>false</IsGameEnded>
+  <TotalNumberDeaths>0</TotalNumberDeaths>
+  <TotalMonstersSlayed>0</TotalMonstersSlayed>
+  <ActualGold>0</ActualGold>
+  <TotalGoldObtained>0</TotalGoldObtained>
+  <ActualLevel>0</ActualLevel>
+  <ActualXP>0</ActualXP>
+  <Stats>
+    <Constitution>10</Constitution>
+    <Strength>5</Strength>
+    <Defense>3</Defense>
+    <Luck>0</Luck>
+  </Stats>
+  <IncrementByLevel>
+    <float>1.2</float>
+    <float>1.5</float>
+    <float>0.7</float>
+    <float>0.3</float>
+  </IncrementByLevel>
+  <Missions />
+  <Journals />
+</InfoPlayer>

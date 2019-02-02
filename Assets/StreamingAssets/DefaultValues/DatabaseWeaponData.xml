@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<InfoWeaponsDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InfoWeapons>
+    <InfoWeapon>
+      <Name>Espada Inicial</Name>
+      <Damage>0</Damage>
+      <IsEquipped>true</IsEquipped>
+      <WeaponType>SimpleSword</WeaponType>
+      <WeaponEffect>
+        <TypeEffect>None</TypeEffect>
+        <Probability>0</Probability>
+        <Time>0</Time>
+      </WeaponEffect>
+      <WeaponRarity>Normal</WeaponRarity>
+      <AttackSpeed>1</AttackSpeed>
+      <SellValue>0</SellValue>
+      <ModelName>/Weapons/0</ModelName>
+    </InfoWeapon>
+  </InfoWeapons>
+</InfoWeaponsDatabase>
